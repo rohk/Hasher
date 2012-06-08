@@ -182,7 +182,8 @@ var testsHashs = [
     '/asd',
     '/asd/qwerty/',
     '/asd/qwerty/?foo=bar',
-    'lorem-ipsum'
+    'lorem-ipsum',
+    'foo%'
 ];
 
 
